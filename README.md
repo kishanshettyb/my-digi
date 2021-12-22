@@ -1,1 +1,1 @@
-# my-digi
+# conventional
